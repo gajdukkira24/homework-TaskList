@@ -28,6 +28,7 @@ class TaskList extends React.Component {
                   Видалити
                 </button>
               </li>
+              
             ))}
           </ul>
 
